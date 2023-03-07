@@ -1,0 +1,1 @@
+javascript:(function(){window.open('https://translate.google.com/translate?sl=auto&tl=en&u=%27+encodeURIComponent(location.href));})();
