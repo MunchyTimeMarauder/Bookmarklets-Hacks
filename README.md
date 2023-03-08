@@ -1,7 +1,11 @@
 # Bookmarklets-Hacks
-This page is for Fake hacks you can use at school
-
-<b>How to use<b/>
-<p>Find the code you want copy it and paste it on your bookmark bar<p?>
-
-<h3>I DID NOT MAKE 99.9% of THESE<h3>
+This page is for Fake hacks you can use at school made by some friend still learning how to code 
+<br>
+<h2><b>How to use</b></h2>
+<p>Find the code you want copy it and paste it on your bookmark bar</p>
+<br>
+<h3>WE DID NOT MAKE 99.9% of THESE</h3>
+<p>We do not claim that we made these we have simply found them This is a catalog of bookmarklets that we found all over the internet.</p>
+<br>
+<h4>!!Discalimer!!</h4>
+<p>We are not ligable if you get in touble or break any laws. use at YOU're own risk
