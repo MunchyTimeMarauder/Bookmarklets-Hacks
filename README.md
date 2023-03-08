@@ -8,4 +8,4 @@ This page is for Fake hacks you can use at school made by some friend still lear
 <p>We do not claim that we made these we have simply found them This is a catalog of bookmarklets that we found all over the internet.</p>
 <br>
 <h3>!!Discalimer!!</h3>
-<p>We are not ligable if you get in touble or break any laws. use at YOU're own risk
+<p>We are not ligable if you get in touble or break any laws. use at YOUR own risk
