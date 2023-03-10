@@ -9,5 +9,3 @@ This page is for Fake hacks you can use at school made by some friend still lear
 <br>
 <h3>!!Discalimer!!</h3>
 <p>We are not ligable if you get in touble or break any laws. use at YOUR own risk
-<h3>Check out our other website</h3>
-<p>https://codeprojects.org/projects/weblab/jUsa8FuYChdQKAx2uMasoqpK6KYIKAJT6Ek6tCmj8Ac/</p>
